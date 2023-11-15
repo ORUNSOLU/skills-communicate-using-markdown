@@ -2,4 +2,4 @@
 ## My secondary header
 ## My tertiary header
 
-![Simple image of a cat](http://placekitten.com/200/300)
+![Randomly generated pictures from picsum](https://picsum.photos/200/300)
